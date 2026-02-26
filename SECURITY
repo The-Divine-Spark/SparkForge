@@ -1,0 +1,19 @@
+# Node dependencies (if we add Node later)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (keep API keys safe)
+.env
+.env.local
+.env.*.local
+
+# Vercel deployment folder
+.vercel/
+
+# System files
+.DS_Store
+Thumbs.db
